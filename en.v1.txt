@@ -1,0 +1,470 @@
+---------------------------------------------------------------------
+|								    |
+| Translation of CliffDev website by Evie Burrows.		    |
+| www.cliffdev.tk - evie.uk.eu.org				    |
+|								    |
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+|								    |
+| Home + Footer/Nav						    |
+| 								    |
+---------------------------------------------------------------------
+
+Cliff Développement 
+> Cliff Development
+
+SITE DE SECOURS! 
+> EMERGENCY SITE!
+
+Cliff Developpement, votre partenaire pour tous vos projets tels que sites internet, serveurs de jeux ou vocaux. 
+> Cliff Developpement, your partner for all your projects such as websites, game servers or voice.
+
+Mais aussi du graphisme aux monteurs vidéo. 
+> But also graphics to video editors.
+
+Nous sommes là pour vous accompagner pour tous les besoins. 
+> We are here to accompany you for every need.
+
+Nos services 
+> Our services
+
+Voici un petit aperçu des services disponibles sur notre site. 
+> Here is a small overview of the services available on our site.
+
+Les services peuvent être gratuit ou payant en fonction du temps et des moyens développés pour le faire. 
+> Services can be free or paid depending on the time and means developed to do it.
+
+Développement de bots
+> Bots development
+
+Site internet
+> Website
+
+Graphistes
+> Graphic
+
+Plugins/Addons
+> Plugins/Addons
+
+Montages/Marketing
+> Video editing/Marketing
+
+Hébergement
+> Hosting
+
+En savoir plus
+> Learn more
+
+Bientôt disponible
+> Coming soon
+
+Vos futurs bots Discord ou autres commencent ici à des prix imbattables !
+> Your future Discord bots or others start here at unbeatable prices!
+
+Des sites conçus sur mesure à vos souhaits pour des prix et des fonctions imbattables.
+> Sites tailored to your wishes for unbeatable prices and features.
+
+Vous souhaitez lancer votre projet de site, chaîne ou autre ayant besoin d'un design ? Ne cherchez plus !
+> Do you want to start your site project, channel or other needs of a design ? Do not search anymore !
+
+Tous les services sur notre site sont fabriqués par des humains, il est donc normal qu'il y ait parfois des attentes ou d'autres.
+Par contre, si une commande ne peut pas être passée pour une raison X, l’argent sera remboursé.
+> All services on our site are made by humans, so it is normal that there are sometimes expectations or others.
+However, if an order can not be placed for a reason X, the money will be refunded.
+
+Mots du Staff
+> Staff words
+
+Petits mots écrits par le staff pour vous expliquer pourquoi notre site existe.
+> Little words written by the staff to explain why our site exists.
+
+Créer pour simplifier la tâche des personnes pleines d'étincelles dans les yeux.
+> Create to simplify the task of people full of sparks in the eyes.
+
+Vos besoins, nos compétences, nous sommes là pour exaucer vos souhaits à prix moindres.
+> Your needs, our skills, we are here to fulfill your wishes at lower prices.
+
+Peut-être que ce seront vos mots.
+> Maybe it will be your words.
+
+Créateur - Cliff Dev.
+> Creator - Cliff Dev.
+
+Dev/Support - Cliff Dev.
+> Dev/Support - Cliff Dev.
+
+Plateforme de services gratuits & payants, convient à toutes les personnes, aucuns contenus offensant n'est toléré sur notre site.
+Nous recrutons ! Rendez-vous dans Contact !
+> Platform of free and paid services, suitable for all people, no offensive content is tolerated on our site.
+We are hiring ! See you in Contact!
+
+Menu
+> Menu
+
+Services
+> Services
+
+Contact
+> Contact
+
+Support Ticket
+> Support Ticket
+
+Forum
+> Forum
+
+Pages
+> Pages
+
+Accueil
+> Home
+
+Nos services
+> Our services
+
+Nous contacter
+> Contact us
+
+Nos réseaux
+> Our networks
+
+© Cliff Developpement. Tous droits réservés, 2018. 
+> © Cliff Development. All rights reserved, 2018.
+
+---------------------------------------------------------------------
+|								    |
+| Bots (http://cliffdev.tk/bot.html)				    |
+| 								    |
+---------------------------------------------------------------------
+
+BOTS
+> BOTS
+
+Développement de BOTS
+> BOTS development
+
+Notre équipe peut dès maintenant développé des bots Discord (D'autres à venir). Pour ce faire cliquez sur l'offre qui vous intérésse puis suivez les étapes de la commandes.
+> Our team can now develop Discord bots (more to come). To do this click on the offer that interests you then follow the steps of the orders.
+
+Vous pouvez aussi demander des renseignements sur nos réseaux, discord ou via le formulaire de contact.
+> You can also request information about our networks, discord or via the contact form.
+
+Discord Bronze
+> Discord Bronze
+
+Discord Silver
+> Discord Silver
+
+Discord Gold
+> Discord Gold
+
+Discord Platinium
+> Discord Platinium
+
+Discord Life
+> Discord Life
+
+Discord Update
+> Discord Update
+
+Commande à réponse :
+> Reply command :
+
+Commande d'aide :
+> Help command : 
+
+Message de bienvenue :
+> Welcome message :
+
+Modération :
+> Moderation :
+
+Mini-jeux :
+> Mini games :
+
+Report : 
+> Report : 
+
+Expérience :
+> Experience :
+
+Prix :
+> Price :
+
+En savoir plus
+> Learn more
+
+---------------------------------------------------------------------
+|								    |
+| Web (http://cliffdev.tk/site.html)				    |
+| 								    |
+---------------------------------------------------------------------
+
+Sites Web
+> Website
+
+Notre équipe peut dès maintenant crée des Sites internet sur mesure. Pour ce faire cliquez sur l'offre qui vous intérésse puis suivez les étapes de la commandes. Vous pouvez aussi demander des renseignements sur nos réseaux, discord ou via le formulaire de contact.
+> Our team can now create custom Websites. To do this click on the offer that interests you then follow the steps of the orders. You can also request information about our networks, discord or via the contact form.
+
+Template Personnalisé
+> Custom Template
+
+Création forum
+> Forum creation
+
+Site vitrine
+> Showcase site
+
+Choix du template :
+> Choice of template :
+
+Choix des pages :
+> Choice of pages :
+
+Livraison en -72 heures : 
+> Delivery in -72 hours :
+
+Aide prise en main : 
+> (Help) Taken in hand :
+
+---------------------------------------------------------------------
+|								    |
+| GFX (http://cliffdev.tk/graphisme.html)			    |
+| 								    |
+---------------------------------------------------------------------
+
+Création "GFX"
+> Creation "GFX"
+
+Notre équipe peut dès maintenant crée des logos, bannières, avatar (D'autres à venir). Pour ce faire cliquez sur l'offre qui vous intérésse puis suivez les étapes de la commandes. Vous pouvez aussi demander des renseignements sur nos réseaux, discord ou via le formulaire de contact.
+> Our team can now create logos, banners, avatar (More to come). To do this click on the offer that interests you then follow the steps of the orders. You can also request information about our networks, discord or via the contact form.
+
+Fond PNG/Au choix :
+> PNG Background / A choice:
+
+Rapide -24 heures :
+> Fast -24 hours :
+
+Personnalisable à 100% :
+> 100% customizable :
+
+Rapide 48 heures :
+> Fast 48 hours :
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/lwankul.php				    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de graphisme de logo Wankul, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the page of the Wankul logo design offer, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Caractéristiques
+> Characteristics
+
+Le logo sera livré dans les 24 heures, s'il ne vous va pas, aucun problème, il suffirat de nous le dire sur le mail, formulaire ou le discord.
+> The logo will be delivered within 24 hours, if it does not suit you, no problem, it will be enough to tell us on the mail, form or discord.
+
+Le logo peut-être livré en format PNG sans fond pour pouvoir l'incrusté ou bon vous semble, ou bien nous pouvons mettre un fond de votre choix.
+> The logo can be delivered in PNG format bottomless to be inlaid or you want, or we can put a background of your choice.
+
+De plus, vous pouvez nous demander un format spécifique (par défaut nous faisons du 512x512.
+Le prix est de 0.10€ 
+> In addition, you can ask us for a specific format (by default we do 512x512.
+The price is €0.10
+
+Formulaire de contact
+> Contact form
+
+Prénom*
+> First name*
+
+Email* 
+> E-mail*
+
+Message* 
+> Message*
+
+Envoyez 
+> Send
+
+- Choisir le sujet -
+> - Choose the subject -
+
+Achats
+> Buying
+
+Renseignements
+> Details
+
+Autres
+> Other
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/lface.php				   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Logo Face
+> Logo Face
+
+Voici sur la page de l'offre de graphisme de logo Face, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the Face logo design page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/lvecteur.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Vecteur 2D Pro
+> 2D Vector Pro
+
+De plus, vous pouvez nous demander un format spécifique (par défaut nous faisons du 1000x1000.
+Le prix est de 2.00€
+> In addition, you can ask us for a specific format (by default we do 1000x1000.
+The price is 2.00 €
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/stemplate.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Site Template Personnalisé
+> Custom Website Template
+
+Le Site Template Personnalisé sera livré dans les 72 heures, s'il ne vous va pas, aucun problème, il suffirat de nous le dire sur le mail, formulaire ou le discord.
+Un site Template Perso est un site où vous pouvez choisir le template/thème qui vous correspond le mieux parmi une énorme sélection puis nous le modifions entièrement en fonction de vos attentes.
+>Le prix est de 5.00€
+> The Site Template Custom will be delivered within 72 hours, if it does not suit you, no problem, it will be enough to tell us on the mail, form or discord.
+A Custom Site is a site where you can choose the template / theme that best suits you from a huge selection and then modify it entirely according to your expectations.
+> The price is 5.00 €
+
+Voici sur la page de l'offre de Site Template Personnalisé, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the page of the offer of Site Custom Template, on this page you will find the advantages, prices, features and conditions to this offer.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/sforum.php				   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Site Forum
+> Website Forum
+
+Voici sur la page de l'offre de site forum, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the page of the site offer forum, on this page you will find the benefits, prices, features and conditions to this offer.
+
+Le forum sera livré dans les 72 heures, s'il ne vous va pas, aucun problème, il suffirat de nous le dire sur le mail, formulaire ou le discord.
+>Le prix est de 2.50€
+> The forum will be delivered within 72 hours, if it does not suit you, no problem, it will be enough to tell us on the mail, form or discord.
+> The price is 2.50 €
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/svitrine.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Site Vitrine
+> Showcase site
+
+Voici sur la page de l'offre de site Vitrine, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the page of the offer of site Showcase, on this page you will find the advantages, the prices, the functionalities and the conditions with this offer.
+
+Voici sur la page de l'offre de site Vitrine, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the page of the offer of site Showcase, on this page you will find the advantages, the prices, the functionalities and the conditions with this offer.
+
+Le site sera livré dans les 72 heures, s'il ne vous va pas, aucun problème, il suffirat de nous le dire sur le mail, formulaire ou le discord.
+Un site vitrine est un site pour présenter vos vidéos, vos créations graphiques ou tout ce que bon vous semble.
+>Le prix est de 5.00€
+> The site will be delivered within 72 hours, if it does not suit you, no problem, it will be enough to tell us on the mail, form or discord.
+A showcase site is a site to present your videos, your graphic creations or whatever you want.
+> The price is 5.00 €
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dbronze.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Bronze, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here on the Discord Bronze bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Le bot sera livré avec les commandes souhaités tels que le /help, /twitter, /youtube mais sans commandes avec une action. Uniquement des commandes auto répondantes.
+> The bot will be delivered with the desired commands such as / help, / twitter, / youtube but no commands with an action. Only self-responding commands.
+
+Pour l'hébergement, il n'est pas inclus dans l'offre et est donc à votre charge, sauf ci choix de votre part: 0.50€ / Mois.
+> For accommodation, it is not included in the offer and is therefore your responsibility, except for your choice: 0.50 € / Month.
+
+Le bot est livré avec une garanti qu'il fonctionne: si problème suite à la livraison, les réglages seront effectués par un développeur.
+> The bot comes with a guaranteed it works: if problem after delivery, the settings will be made by a developer.
+
+Pour le paiement: Moitié lors de la prise de commande puis l'autre moitié avant la livraison.
+Le prix est de 0.50€
+> For payment: Half when ordering and the other half before delivery.
+The price is 0.50 €
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dsilver.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Silver, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the Discord Silver bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Le bot sera livré avec les commandes souhaités tels que le /help, /twitter, youtube, welcome message. Par contre aucuns mini-jeux ni modération n'est fourni dans cet offre.
+> The bot will be delivered with the desired commands such as / help, / twitter, youtube, welcome message. However no mini-games or moderation is provided in this offer.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dgold.php				   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Gold, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the Discord Gold bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dplatinium.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Platinium, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the Discord Platinium bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Le bot sera livré avec les commandes souhaités tels que le /help, /twitter, /ban, /mute, /flip, welcome message. Par contre le système d'xp n'est pasfourni dans cet offre.
+> The bot will be delivered with the desired commands such as / help, / twitter, / ban, / mute, / flip, welcome message. On the other hand, the xp system is not provided in this offer.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dlife.php				   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Platinium, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the Discord Platinium bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Le bot sera livré avec les commandes souhaités tels que le /help, /twitter, /ban, /mute, /flip, système d'expérience, welcome message. Il possède toute les catégories de commandes disponibles à vos souhaits. Le bot peut-être mis à jour, des commandes peuvent-être ajoutés sur demande sans frais supplémentaires.
+> The bot will be delivered with the desired commands such as / help, / twitter, / ban, / mute, / flip, experience system, welcome message. It has all the categories of orders available to your wishes. The bot may be updated, orders can be added on request at no additional cost.
+
+---------------------------------------------------------------------
+|								    |
+| http://cliffdev.tk/dupdate.php			   	    |
+| 								    |
+---------------------------------------------------------------------
+
+Voici sur la page de l'offre de développement de bots Discord Update, sur cette page vous allez retrouver les avantages, les prix, les fonctionnalités et les conditions à cette offre.
+> Here is the Discord Update bots development offer page, on this page you will find the advantages, prices, features and conditions of this offer.
+
+Cette offre n'est utilisable que pour des personnes ayant fait faire leur bots par notre site. Elle consiste à mettre à jour ou à ajouté plusieurs commandes. Les commandes qui sont ajoutés ou mises à jour sont des commandes de l'offre qui avait été acheté. ( Exemple une offre Silver ne pourras pas ajouter de mini-jeux ).
+> This offer is only usable for people who had their bots made by our site. It consists of updating or adding several commands. Orders that are added or updated are orders for the offer that was purchased. (Example a Silver offer will not be able to add mini-games).
+
+Le bot est livré avec une garanti qu'il fonctionne: si problème suite à la livraison, les réglages seront effectués par un développeur.
+> The bot comes with a guaranteed it works: if problem after delivery, the settings will be made by a developer.
