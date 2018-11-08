@@ -1,0 +1,49 @@
+---------------------------------------------------------------------
+|								    |
+| Translation of CliffDev Discord by Evie Burrows.		    |
+| evie.uk.eu.org						    |
+|								    |
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+|								    |
+| #règlement_achats						    |
+| 								    |
+---------------------------------------------------------------------
+
+**BONJOUR, BIENVENUE SUR CLIFF DEVELOPPEMENT, AVANT DE POUVOIR COMMANDER, IL VOUS FAUDRA LIRE ET APPROUVER CE RÈGLEMENT.**
+
+- Les demandes de bots / sites webs sont prises très au sérieux, aucune insulte ou autre dans les formulaires ne sera tolérée
+- Nous ne sommes pas responsable d’un bug qui vient de votre faute, par exemple, une modification de fichier. Nous sommes là pour vous aider si vous avez la moindre question.
+- Nous n’utiliserons pas vos données à des fins autres que vos commandes.
+
+- Si, lors de la livraison de votre commande, vous rencontrez un souci, n’hésitez pas à contacter le service technique / le support, et nous ferons le nécessaire.
+
+- Le service Support est en droit de vous demander des informations sur vos commandes afin de vous aider au mieux, mais ne peut en aucun cas vous demander des informations personnelles.
+
+- Si nous trouvons vos commandes très longues ou si elles prennent du temps, nous privilégierons les petites commandes afin de satisfaire au mieux nos clients, mais si vous voulez passer en priorité, une formule de 50c existe.
+
+- Si nous trouvons vos projets intéressants, nous sommes en permission de vous demander des informations supplémentaires sur ce tiers.
+
+- Thebycop possède les droits de refuser une commande, pour n’importe quelle raison, il est donc judicieux de nous parler de vos projets en un petit paragraphe sur le Discord (Seul l’équipe de développement possède les permissions de lire ce salon) pour éviter une perte de temps à l’écriture.
+
+- En fermant ce pop-up, nous jugeons que vous avez prit connaissance du règlement, et que vous êtes donc au courant de ce qui s’inscrit au dessus.
+
+
+*Règlement pensé et rédigé par @GouZi#1410*
+
+> ** HELLO, WELCOME TO CLIFF DEVELOPMENT, BEFORE YOU CAN ORDER, YOU WILL HAVE TO READ AND APPROVE THIS REGULATION. ** or **HELLO, WELCOME TO CLIFF DEVELOPMENT, BEFORE YOU CAN ORDER, YOU WILL HAVE TO READ AND APPROVE THIS RULES.**
+> - Requests for bots / websites are taken very seriously, no insults or other forms will be tolerated.
+> - We are not responsible for a bug that comes from your fault, for example, a file modification. We are here to help you if you have any questions.
+> - We will not use your data for purposes other than your orders.
+
+> - If, during the delivery of your order, you encounter a problem, do not hesitate to contact the technical service / support, and we will do the necessary.
+> - The Support service is entitled to ask you for information about your orders to help you better, but can not in any case ask you for personal information.
+> - If we find that your orders are too long / take too much time, we will favor small orders to better satisfy our customers, but if you want to pass priority, a formula of 50c exists.
+
+> - If we find your projects interesting, we are on leave to ask you for additional information about this third party. or - If we find your projects interesting, we are on leave to ask you for additional information about this thiers.
+> - Thebycop has the rights to refuse an order, for any reason, so it is wise to tell us about your projects in a small paragraph on the Discord (Only the development team has permissions to read this show) for avoid a waste of time writing.
+
+> - By closing this pop-up, we judge that you have read the rules, and that you are aware of what happened above.
+
+> *Regulation designed and written by @ GouZi#1410, translated by @NotCatEvie 🇬🇧#3841*
