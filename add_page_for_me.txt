@@ -1,16 +1,15 @@
 ---------------------------------------------------------------------
-|								                                                    |
-| Translation service for CliffDev by Evie Burrows.		              |
-| evie.uk.eu.org						                                        |
-|								                                                    |
+|								                                    |
+| Translation service for CliffDev by Evie Burrows.		            |
+| evie.uk.eu.org						                            |
+|								                                    |
 ---------------------------------------------------------------------
 
 ---------------------------------------------------------------------
-|								                                                    |
-| Translation 		                                                  |
+|								                                    |
+| Translation 		                                                |
 | https://cliffdev.eu.org/translate.html                            |
-|								                                                    |
----------------------------------------------------------------------
+|								                                    |
 
 Title: Traduction (FR>EN)
 Description: Vous avez un projet/site en Français ? Vous souhaitz le traduire en Anglais ? Voici nos offres.
